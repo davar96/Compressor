@@ -130,3 +130,10 @@ body {
   font-size: 1.1rem;
   text-transform: uppercase;
 }
+
+footer {
+  position: absolute;
+  bottom: 10px;
+  left: 43%;
+  color: #fff;
+}
